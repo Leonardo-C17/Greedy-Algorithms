@@ -12,12 +12,6 @@ Actividad 8: Algoritmos Voraces (Greedy). El repositorio contiene dos programas 
 - Un compilador de C++ con soporte para C++17 (por ejemplo, `g++` o `clang++`).
 - Una terminal abierta en la carpeta del repositorio.
 
-Para verificar que `g++` está instalado:
-
-```bash
-g++ --version
-```
-
 ## Compilación y ejecución
 
 Los nombres de los archivos contienen espacios, por eso deben escribirse entre comillas.
