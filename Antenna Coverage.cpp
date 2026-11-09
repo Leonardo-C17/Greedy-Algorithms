@@ -1,4 +1,4 @@
-// Problema 2: Cobertura de antenas (Greedy)
+// Problema 2: Cobertura de antenas
 #include <algorithm>
 #include <iostream>
 #include <limits>
